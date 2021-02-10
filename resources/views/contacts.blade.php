@@ -1,5 +1,6 @@
-@extends('page')
-
-@section('content')
-       <p>I nostri contatti:</p>
-@endsection
+<h1>I nostri contatti:</h1>
+<ul>
+   <li>email</li>
+   <li>telefono</li>
+   <li>social</li>
+</ul>
